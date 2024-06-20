@@ -5,13 +5,13 @@
     </samp>
 </h3>
 
-<h4 align="center"> 
+<p align="center"> 
   <samp>
     ~ I am a student at the <b>University of Central Florida</b> pursuing a Bachelor's degree in Computer Science ~
     <br>
     <br>
   </samp>
-</h4>
+</p>
 
 <p align="center">
  <a href="https://linkedin.com/in/danrmzz" target="_blank">
