@@ -1,17 +1,17 @@
 <!-- Intro  -->
 <h3 align="center">
-    <samp> Hey! I am
+    <samp> Hey! I'm
         <b>Daniel Ramirez.</b>
     </samp>
 </h3>
 
-<p align="center"> 
+<h4 align="center"> 
   <samp>
     ~ I am a student at the <b>University of Central Florida</b> pursuing a Bachelor's degree in Computer Science ~
     <br>
     <br>
   </samp>
-</p>
+</h4>
 
 <p align="center">
  <a href="https://linkedin.com/in/danrmzz" target="_blank">
