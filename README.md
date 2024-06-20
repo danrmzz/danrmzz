@@ -23,8 +23,9 @@
 <!-- About Section -->
 # About me
 
-<p>
- <img align="right" width="250" src="University_of_Central_Florida_logo_PNG1.png" alt="ucf logo"/>
+<a href="https://www.ucf.edu" target="_blank">
+    <img align="right" width="250" src="University_of_Central_Florida_logo_PNG1.png" alt="ucf logo" />
+</a>
  
  ⚔️ &emsp; 2nd year student at UCF <br/><br/>
  👾 &emsp; Enjoy programming, video games, and basketball <br/><br/>
