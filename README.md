@@ -18,13 +18,13 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="daniel"/>
  </a>
 </p>
-<br />
+
 
 <!-- About Section -->
 # About me
 
 <p>
- <img align="right" width="250" src="University_of_Central_Florida_logo_PNG1.png" alt="ucf logo" />
+ <img align="right" width="250" src="University_of_Central_Florida_logo_PNG1.png" alt="ucf logo"/>
  
  ⚔️ &emsp; 2nd year student at UCF <br/><br/>
  👾 &emsp; Enjoy programming, video games, and basketball <br/><br/>
