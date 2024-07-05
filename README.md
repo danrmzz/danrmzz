@@ -3,6 +3,6 @@
 <p>
     I am a student at the University of Central Florida pursuing a Bachelor's degree in Computer Science. <br><br>
     <a href="https://skillicons.dev" target="_blank">
-        <img src="https://skillicons.dev/icons?i=py,java,c,html,css" alt="icons"/>
+        <img src="https://skillicons.dev/icons?i=py,java,c,html,css,bootstrap" alt="icons"/>
     </a> 
 </p>
