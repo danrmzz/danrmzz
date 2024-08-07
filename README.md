@@ -2,7 +2,9 @@
 
 <p>
     I am a student at the University of Central Florida pursuing a Bachelor's degree in Computer Science. <br><br>
+    <h2>Languages & Frameworks I use</h2>
     <a href="https://skillicons.dev" target="_blank">
-        <img src="https://skillicons.dev/icons?i=py,java,c,html,css,bootstrap" alt="icons"/>
-    </a> 
+        <img src="https://skillicons.dev/icons?i=py,java,c,html,css,bootstrap,flask" alt="icons"/>
+    </a>
+     
 </p>
